@@ -17,8 +17,8 @@ TELEGRAM_CHANNEL_ID = "@Forex_News001"
 FINNHUB_API_KEY = "d9is8vhr01qvkt7e0pe0d9is8vhr01qvkt7e0peg"
 
 # Affiliate Links (Used for Telegram Buttons)
-EXNESS_LINK = "https://www.exness.com"
-XM_LINK = "https://www.xm.com"
+EXNESS_LINK = "https://one.exnessonelink.com/a/024bo60ehs"
+XM_LINK = "https://affs.click/w8Mx4"
 
 # How often the bot checks for new market news (in seconds) -> 300 = 5 minutes
 CHECK_INTERVAL = 300
